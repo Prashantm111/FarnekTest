@@ -1,0 +1,20 @@
+
+c
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ìİŸó8‚ç´ğ‰/
+J
+java:S11219".Extract the assignment out of this expression.(ô…Û8ÍÂæğ‰/
+t
+java:S3252J"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí8°Í×ğ‰/
+L
+java:S1172["/Remove this unused method parameter "location".(ßÆë¯8°Í×ğ‰/
+E
+java:S1185#"(Remove this method to simply inherit it.(ªĞªÄ8¿¶èğ‰/
+g
+java:S1128"KRemove this unused import 'com.google.firebase.database.DatabaseReference'.(ÉÓ¹8®¶«ò‰/
+t
+java:S3252J"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí8°Í×ğ‰/
+g
+java:S1128"JRemove this unused import 'com.google.firebase.database.FirebaseDatabase'.(×Ë—8æ×«ò‰/
+X	java:S125"<This block of commented-out lines of code should be removed.(î˜é˜8°Í×ğ‰/
+L
+java:S1874+"/Remove this use of "Handler"; it is deprecated.(õÊëì8°Í×ğ‰/

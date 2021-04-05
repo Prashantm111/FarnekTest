@@ -1,0 +1,32 @@
+
+L
+java:S1066N"/Merge this if statement with the enclosing one.(…œºà8› øï‰/
+w
+java:S1450"ZRemove the "mShowButton" field and declare it as a local variable in the relevant methods.(ÅÁğŒ8÷Åòï‰/
+X	java:S125F"<This block of commented-out lines of code should be removed.(ğæ™ë8ºë€ğ‰/
+I
+java:S1659",Declare "mHistoryButton" on a separate line.(ÅÁğŒ8÷Åòï‰/
+t
+java:S32520"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(½œ·ğ8› øï‰/
+X
+java:S1128
+"6Remove this unused import 'android.location.Location'.(›¡ì®øÿÿÿÿ8½ƒãè‰/
+‚	java:S116"fRename this field "REQUEST_LOCATION_PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓ«Ü8ÏÄîè‰/
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8º§ÿç‰/
+V
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8°îï‰/
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8½ƒãè‰/
+t
+java:S32521"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(öÜØÜ8õôòï‰/
+X	java:S125C"<This block of commented-out lines of code should be removed.(Ãˆİ8êŞ¿ò‰/
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8°îï‰/
+Z
+java:S1128"=Remove this unused import 'android.location.LocationManager'.(Ü©ÎÎ8öñè‰/
+[
+java:S1128">Remove this unused import 'android.location.LocationListener'.(æ‡ë 8Âãâè‰/
+
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††8Â÷ûï‰/
+z
+java:S1450"]Remove the "mHistoryButton" field and declare it as a local variable in the relevant methods.(ÅÁğŒ8÷Åòï‰/

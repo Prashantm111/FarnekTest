@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782796146090",
+    "firebase_url": "https://farnektest-21609-default-rtdb.firebaseio.com",
+    "project_id": "farnektest-21609",
+    "storage_bucket": "farnektest-21609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782796146090:android:114520d4d11afaa0e797d3",
+        "android_client_info": {
+          "package_name": "com.example.farnektest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782796146090-5u73ruj710tafmv4ghbva859jtvpvaon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsN2qz0GmfUa5HdQgtG-Ur43ZYNEMgRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782796146090-5u73ruj710tafmv4ghbva859jtvpvaon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
